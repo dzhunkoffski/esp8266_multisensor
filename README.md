@@ -11,4 +11,4 @@ ALERT!!! Motion detected!!! | HC-SR501's digital output sends a signal to the bo
 Failed to read from DHT sensor!!! | readTemperature() or readHumidity() returns NaN value
 
 ## Example:
-
+![mockup](https://github.com/dzhunkoffski/esp8266_multisensor/blob/main/board_code/mckp.png)
