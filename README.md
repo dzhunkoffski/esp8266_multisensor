@@ -9,3 +9,6 @@ Command/message | Definition
 /humidity | multisensor reads humidity from the DHT11 and sends it
 ALERT!!! Motion detected!!! | HC-SR501's digital output sends a signal to the board, equal infrared radiation in the sensor's field of view
 Failed to read from DHT sensor!!! | readTemperature() or readHumidity() returns NaN value
+
+## Example:
+
