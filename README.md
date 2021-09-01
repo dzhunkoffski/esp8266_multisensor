@@ -7,3 +7,5 @@ Command/message | Definition
 /start | start conevrsation with MultisensorBot 
 /temperature | multisensor reads temperature from the DHT11 and send it
 /humidity | multisensor reads humidity from the DHT11 and send it
+ALERT!!! Motion detected!!! | HC-SR501's digital output sends a signal to the board, equal infrared radiation in the sensor's field of view
+Failed to read from DHT sensor!!! | readTemperature() or readHumidity() returns NaN value
