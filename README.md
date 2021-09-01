@@ -1,5 +1,5 @@
 # esp8266_multisensor
-Esp8266 multisensor based on NodeMCU V3 which reads temperature throught DHT11 and movements throught pir sensor HC-SR501 and sends data via Telegram Bot (I'm using [UniversalTelegramBot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) library).
+Esp8266 multisensor based on NodeMCU V3 which reads temperature throught DHT11 and movements throught pir sensor HC-SR501 and sends data via Telegram Bot for user (I'm using [UniversalTelegramBot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot) library).
 
 ## Commands and messages:
 Command/message | Definition
